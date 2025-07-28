@@ -4,16 +4,15 @@ This repository provides the simulation assets used in the paper:
 
 **"DESIGN A PATH – PLANNING STRATEGY FOR MOBILE ROBOT IN MULTI-STRUCTURED ENVIRONMENT BASED ON DISTRIBUTIONAL REINFORCEMENT LEARNING"**  
 
-
-| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_DiffrobotAndMap_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_all_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallAndDiffrb_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallPersonAndDiffrb_crop.png?raw=true" height="170"/> |
+| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map1_crop.png?raw=true" height="170"/> <br> <sub>map1</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map2_crop.png?raw=true" height="170"/> <br> <sub>map2</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map3_crop.png?raw=true" height="170"/> <br> <sub>map3</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map4_crop.png?raw=true" height="170"/> <br> <sub>map4</sub> |
 |---|---|---|---|
-| file_DiffrobotAndMap | file_all | file_mapSmallAndDiffrb | file_mapSmallPersonAndDiffrb |
 
-| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmall_2AndDiffrb_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map1_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map2_crop.png?raw=true" height="170"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/map4_crop.png?raw=true" height="170"/> |
+| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallAndDiffrb_crop.png?raw=true" height="170"/> <br> <sub>file_mapSmallAndDiffrb</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmall_2AndDiffrb_crop.png?raw=true" height="170"/> <br> <sub>file_mapSmallAndDiffrb2</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmall_3AndDiffrb.png?raw=true" height="170"/> <br> <sub>file_mapSmallAndDiffrb3</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallPersonAndDiffrb_crop.png?raw=true" height="170"/> <br> <sub>file_mapSmallPersonAndDiffrb</sub> |
 |---|---|---|---|
-| file_mapSmall_2AndDiffrb | map1 | map2 | map4 |
 
----
+| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_DiffrobotAndMap_crop.png?raw=true" height="170"/> <br> <sub>file_DiffrobotAndMap</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_all_crop.png?raw=true" height="170"/> <br> <sub>file_all</sub> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapAndModelperson.png?raw=true" height="170"/> <br> <sub>file_mapAndModelperson</sub> |
+|---|---|---|
+
 
 ## Contents
 ```
