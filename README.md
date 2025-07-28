@@ -5,7 +5,7 @@ This repository provides the simulation assets used in the paper:
 **"DESIGN A PATH – PLANNING STRATEGY FOR MOBILE ROBOT IN MULTI-STRUCTURED ENVIRONMENT BASED ON DISTRIBUTIONAL REINFORCEMENT LEARNING"**  
 
 
-| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_DiffrobotAndMap_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_all_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallAndDiffrb_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallPersonAndDiffrb_crop.png?raw=true" height="170"/> |
+| <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_DiffrobotAndMap_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_all_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallAndDiffrb_crop.png?raw=true" height="175"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallPersonAndDiffrb_crop.png?raw=true" height="175"/> |
 |---|---|---|---|
 | file_DiffrobotAndMap | file_all | file_mapSmallAndDiffrb | file_mapSmallPersonAndDiffrb |
 
