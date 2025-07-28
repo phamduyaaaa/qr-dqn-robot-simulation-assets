@@ -3,7 +3,7 @@
 This repository provides the simulation assets used in the paper:
 
 **"DESIGN A PATH – PLANNING STRATEGY FOR MOBILE ROBOT IN MULTI-STRUCTURED ENVIRONMENT BASED ON DISTRIBUTIONAL REINFORCEMENT LEARNING"**  
-*MethodsX, 2025*
+
 
 | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_DiffrobotAndMap_crop.png?raw=true" height="200"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_all_crop.png?raw=true" height="200"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallAndDiffrb_crop.png?raw=true" height="200"/> | <img src="https://github.com/phamduyaaaa/qr-dqn-robot-simulation-assets/blob/main/src/file_launch/image_map/resized/file_mapSmallPersonAndDiffrb_crop.png?raw=true" height="200"/> |
 |---|---|---|---|
@@ -138,12 +138,17 @@ The external models folder is required for correct rendering of robots and envir
 
 If you use these assets in your research, please cite:
 
-Nguyen, A.-T., et al. (2025). Design a Path–Planning Strategy for Mobile Robot in Multi-Structured Environment Based on Distributional Reinforcement Learning. MethodsX.
+Nguyen, A.-T., et al. (2025). Design a Path–Planning Strategy for Mobile Robot in Multi-Structured Environment Based on Distributional Reinforcement Learning.
 
 ## Contact
 
-For questions or requests (including access to the training code and configuration files), please contact:
-[Your Full Name] – Corresponding Author
+For questions or requests (including access to the training code and configuration files), please contact:   
 
-Email: [your-email@example.com]
+Nguyen Anh Tu – Corresponding Author    
 
+Email: tuna@haui.edu.vn
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+This repository is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute this work for research and educational purposes, provided that proper credit is given.
