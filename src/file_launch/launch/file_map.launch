@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Pre-order arguments -->
+  <arg name="x_pos" default="-7.043830"/>
+  <arg name="y_pos" default="5.668365"/>
+  <arg name="z_pos" default="0.0"/>
+  <arg name="Yaw" default="-0.594590"/>
+  <arg name="world" default="$(find mymap)/src/map.world"/>
+
+  <!-- Start Gazebo with custom world -->
+  <node name="gazebo" pkg="gazebo_ros" type="gazebo" args="-s libgazebo_ros_factory.so $(arg world)" output="screen">
+    <param name="use_sim_time" value="true"/>
+  </node>
+</launch>
+
+

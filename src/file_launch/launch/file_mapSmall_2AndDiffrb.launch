@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Pre-order argurments -->
+  <arg name="x_pos" default="5.003104"/>
+  <arg name="y_pos" default="-4.714443"/>
+  <arg name="z_pos" default="0.0"/>
+  <arg name="Yaw" default="2.289063"/>
+  <arg name="world" default="$(find mymap)/src/map_Small_2.world"/>
+
+  <!-- Start Gazebo with custom world -->
+  <node name="gazebo" pkg="gazebo_ros" type="gazebo" args="-s libgazebo_ros_factory.so $(arg world)" output="screen">
+    <param name="use_sim_time" value="true"/>
+    </node> 
+
+ <!-- Robot model physically -->
+  <param name="differential_robot" command="cat '$(find model_robot)/urdf/diffbot_realsize.urdf'" />
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_urdf" args="-urdf -model diff_robot -x $(arg x_pos) -y $(arg y_pos) -z $(arg z_pos) -Y $(arg Yaw) -param differential_robot" output="screen"/>
+ 
+  
+</launch>
